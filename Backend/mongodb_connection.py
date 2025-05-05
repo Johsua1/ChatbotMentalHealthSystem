@@ -12,7 +12,10 @@ def get_database():
     Uses environment variables for connection settings.
     """
     try:
-        connection_string = os.getenv('MONGODB_URI', 'mongodb://localhost:27017/')
+        connection_string = os.getenv('MONGODB_URI')
+        if not connection_string:
+            raise ValueError("MongoDB connection string not found in environment variables")
+            
         client = MongoClient(connection_string)
         
         # Verify connection

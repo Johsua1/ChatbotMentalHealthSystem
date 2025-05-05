@@ -22,22 +22,22 @@ const About = () => {
       image: 'img/3.jpg'
     },
     {
-      name: 'N/A',
-      role: 'Secret Weapon #1',
+      name: 'Jan Anthony Alejo',
+      role: 'Documentation',
       isLead: false,
-      image: '4.png'
+      image: 'img/4.png'
     },
     {
-      name: 'N/A',
-      role: 'Secret Weapon #2',
+      name: 'Joshua Miguel Timado',
+      role: 'Documentation',
       isLead: false,
-      image: '5.png'
+      image: 'img/5.jpg'
     },
     {
-      name: 'N/A',
-      role: 'Secret Weapon #3',
+      name: 'Lolito Tagumpay Jr.',
+      role: 'Documentation',
       isLead: false,
-      image: '6.png'
+      image: 'img/6.png'
     }
   ];
 

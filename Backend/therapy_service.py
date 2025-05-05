@@ -2,11 +2,11 @@ from sentence_transformers import SentenceTransformer
 from langchain_ollama import OllamaLLM
 import faiss
 import numpy as np
-from pymongo import MongoClient
 import datetime
 import json
 import re
 from typing import List, Dict
+from mongodb_connection import get_database
 
 class ChatService:
     def __init__(self):
@@ -25,9 +25,8 @@ class ChatService:
         self.embedder = SentenceTransformer("all-MiniLM-L6-v2")
         self.model = OllamaLLM(model="llama3.1")
 
-        # MongoDB setup
-        self.client = MongoClient("mongodb://localhost:27017/")
-        self.db = self.client.get_database("therapy_db")
+        # MongoDB setup using connection module
+        self.db = get_database()
         
         # Memory for conversation context
         self.conversation_memory = {}
@@ -166,25 +165,23 @@ Answer: <2-3 sentences of empathetic insight>
             return f"Your average mood has been {avg_mood:.1f}/10, and I notice a {trend_description} trend. Keep tracking your moods to better understand your emotional patterns."
 
     def save_conversation(self, user_input: str, answer: str, user_id: str) -> None:
-        if self.db is not None:
-            conversation_collection = self.db['conversations']
-            conversation_data = {
-                "userId": user_id,
-                "messages": [
-                    {
-                        "sender": "user",
-                        "text": user_input,
-                        "timestamp": datetime.datetime.utcnow()
-                    },
-                    {
-                        "sender": "bot",
-                        "text": answer,
-                        "timestamp": datetime.datetime.utcnow()
-                    }
-                ],
-                "date": datetime.datetime.utcnow()
-            }
-            conversation_collection.insert_one(conversation_data)
+        conversation_data = {
+            "userId": user_id,
+            "messages": [
+                {
+                    "sender": "user",
+                    "text": user_input,
+                    "timestamp": datetime.datetime.utcnow()
+                },
+                {
+                    "sender": "bot",
+                    "text": answer,
+                    "timestamp": datetime.datetime.utcnow()
+                }
+            ],
+            "date": datetime.datetime.utcnow()
+        }
+        self.db.conversations.insert_one(conversation_data)
 
     def _extract_answer(self, raw_response: str) -> str:
         answer_match = re.search(r"(?i)^answer:\s*(.+)", raw_response, re.MULTILINE)
