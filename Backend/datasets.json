@@ -1,0 +1,1055 @@
+[
+    {
+      "question": "Who are you?",
+      "response": "I'm SAM1"
+    },
+    {
+      "question": "What is the vision of Quezon City University?",
+      "response": "The vision of Quezon City University is to be recognized as the #1 local university of employable graduates."
+    },
+    {
+      "question": "What is the mission of Quezon City University?",
+      "response": "The mission of QCU is to provide a comprehensive education that enhances the lives of QCU students for nation-building and as world citizens."
+    },
+    {
+      "question": "What are the strategic directions of QCU?",
+      "response": "The strategic directions of QCU include: Excellence in Curricular Innovation, Faculty Excellence, Student Excellence, Excellence in Research, Excellence in Community Engagement, Excellence in Institutional Governance, and an Excellent Campus Environment."
+    },
+    {
+      "question": "What does QCU focus on in research?",
+      "response": "QCU emphasizes 'Excellence in Research' as one of its strategic directions, aiming to enhance academic and scientific contributions."
+    },
+    {
+      "question": "How does QCU ensure faculty excellence?",
+      "response": "QCU ensures Faculty Excellence by continuously improving teaching strategies, faculty development programs, and research initiatives."
+    },
+    {
+      "question": "What does QCU do for student success?",
+      "response": "QCU promotes Student Excellence by providing quality education, support services, and opportunities for academic and personal growth."
+    },
+    {
+      "question": "What are the shared values of QCU?",
+      "response": "The shared values of QCU are: Jointness of Undertakings, Organizational Adaptability, and Yoke of Efficiency & Effectiveness."
+    },
+    {
+      "question": "What does Jointness of Undertakings mean in QCU?",
+      "response": "It means collaboration and teamwork in achieving the university’s goals."
+    },
+    {
+      "question": "What does Organizational Adaptability mean for QCU?",
+      "response": "It reflects QCU’s ability to adjust and improve in response to changes and challenges in education and governance."
+    },
+    {
+      "question": "What is meant by the Yoke of Efficiency & Effectiveness in QCU?",
+      "response": "It signifies QCU’s commitment to delivering high-quality education and governance through efficient and effective strategies."
+    },
+    {
+      "question": "Who are the developers of this project?",
+      "response": "The developers of this project are: Anjao Jr., Michael and Nambio, Johsua A."
+    },
+    {
+      "question": "Who created you?",
+      "response": "The developers of this project are: Anjao Jr., Michael and Nambio, Johsua A."
+    },
+
+    {
+      "question": "Can you list the members of this project?",
+      "response": "Sure! The project members are: Alejo, Jan Anthony; Anjao Jr., Michael; Nambio, Johsua A.; Rico, Aliah Samantha B.; Tagumpay, Lolito Jr.; and Timado, Joshua."
+    },
+    {
+      "question": "Who is part of the project team?",
+      "response": "The project team consists of six members: Alejo, Jan Anthony; Anjao Jr., Michael; Nambio, Johsua A.; Rico, Aliah Samantha B.; Tagumpay, Lolito Jr.; and Timado, Joshua."
+    },
+    {
+      "question": "Who is the professor for this project?",
+      "response": "The professor for this project is Mr. Arnel Balasta."
+    },
+    {
+      "question": "Who is guiding the project?",
+      "response": "Mr. Arnel Balasta is the professor guiding the project."
+    },
+    {
+      "question": "Which professor is overseeing this project?",
+      "response": "Mr. Arnel Balasta is overseeing the project as the professor."
+    },
+    {
+      "question": "Hi",
+      "response": "Hello there. Tell me, how are you feeling today?"
+    },
+    {
+      "question": "Hey",
+      "response": "Hi there. What brings you here today?"
+    },
+    {
+      "question": "Is anyone there?",
+      "response": "Hi there. How are you feeling today?"
+    },
+    {
+      "question": "Hi there",
+      "response": "Great to see you. How do you feel currently?"
+    },
+    {
+      "question": "Hello",
+      "response": "Hello there. Glad to see you're back. What's going on in your world right now?"
+    },
+    {
+      "question": "Hey there",
+      "response": "Great to see you. How do you feel currently?"
+    },
+    {
+      "question": "Howdy",
+      "response": "Hi there. What brings you here today?"
+    },
+    {
+      "question": "Hola",
+      "response": "Hello there. Tell me, how are you feeling today?"
+    },
+    {
+      "question": "Good morning",
+      "response": "Good morning. I hope you had a good night's sleep. How are you feeling today?"
+    },
+    {
+      "question": "Good afternoon",
+      "response": "Good afternoon. How is your day going?"
+    },
+    {
+      "question": "Good evening",
+      "response": "Good evening. How has your day been?"
+    },
+    {
+      "question": "Good night",
+      "response": "Good night. Get some proper sleep."
+    },
+    {
+      "question": "Bye",
+      "response": "See you later."
+    },
+    {
+      "question": "See you later",
+      "response": "Have a nice day."
+    },
+    {
+      "question": "Goodbye",
+      "response": "Bye! Come back again."
+    },
+    {
+      "question": "Au revoir",
+      "response": "I'll see you soon."
+    },
+    {
+      "question": "Sayonara",
+      "response": "See you later."
+    },
+    {
+      "question": "ok bye",
+      "response": "Have a nice day."
+    },
+    {
+      "question": "Bye then",
+      "response": "Bye! Come back again."
+    },
+    {
+      "question": "Fare thee well",
+      "response": "I'll see you soon."
+    },
+    {
+      "question": "Thanks",
+      "response": "Happy to help!"
+    },
+    {
+      "question": "Thank you",
+      "response": "Any time!"
+    },
+    {
+      "question": "That's helpful",
+      "response": "My pleasure"
+    },
+    {
+      "question": "Thanks for the help",
+      "response": "You're most welcome!"
+    },
+    {
+      "question": "Thank you very much",
+      "response": "You're most welcome!"
+    },
+    { 
+       "question": "Oh, I see.", 
+       "response": "Let's discuss further why you're feeling this way." },
+    { 
+        "question": "ok", 
+        "response": "Let's discuss further why you're feeling this way." },
+    { 
+        "question": "okay", 
+        "response": "Let's discuss further why you're feeling this way." },
+    { 
+        "question": "nice", 
+        "response": "Let's discuss further why you're feeling this way." },
+    { "question": "Whatever", 
+        "response": "Let's discuss further why you're feeling this way." },
+    { 
+        "question": "K", 
+        "response": "Let's discuss further why you're feeling this way." },
+    { 
+        "question": "Fine", 
+        "response": "Let's discuss further why you're feeling this way." },
+    { 
+        "question": "yeah", 
+        "response": "Let's discuss further why you're feeling this way." },
+    { 
+        "question": "yes", 
+        "response": "Let's discuss further why you're feeling this way." },
+    { 
+        "question": "no", 
+        "response": "Let's discuss further why you're feeling this way." },
+    { 
+        "question": "not really", 
+        "response": "Let's discuss further why you're feeling this way." },
+    { 
+        "question": "I feel so anxious.", 
+        "response": "Don't be hard on yourself. What's the reason behind this?" },
+    { "question": "I'm so anxious because of...", 
+        "response": "Can you tell me more about this feeling?" },
+    { "question": "I don't want to talk about it.", 
+        "response": "Talking about something really helps. If you're not ready to open up, then that's okay. Just know that I'm here for you whenever you need me." },
+    { "question": "No, just stay away.", 
+        "response": "Talking about something really helps. If you're not ready to open up, then that's okay. Just know that I'm here for you whenever you need me." },
+    { "question": "I can't bring myself to open up.", 
+        "response": "Talking about something really helps. If you're not ready to open up, then that's okay. Just know that I'm here for you whenever you need me." },
+    { "question": "Just shut up", 
+        "response": "Talking about something really helps. If you're not ready to open up, then that's okay. Just know that I'm here for you whenever you need me." },
+    { "question": "I have insomnia", 
+        "response": "What do you think is the reason behind this?" },
+    { "question": "I am suffering from insomnia", 
+        "response": "That seems awful. What do you think is causing this?" },
+    { "question": "I can't sleep.", 
+        "response": "What do you think is the reason behind this?" },
+    { "question": "I haven't slept for the last few days.", 
+        "response": "That seems awful. What do you think is causing this?" },
+    { "question": "I can't seem to go to sleep.", 
+        "response": "What do you think is the reason behind this?" },
+    { "question": "I haven't had proper sleep for the past few days.", 
+        "response": "That seems awful. What do you think is causing this?" },
+    { "question": "I'm scared", 
+        "response": "It's only natural to feel this way. I'm here for you." },
+    { "question": "That sounds awful. What do I do?", 
+        "response": "It'll all be okay. This feeling is only temporary." },
+    { "question": "No, I don't want to feel this way", 
+        "response": "I understand how you feel. Don't put yourself down because of it." },
+    { "question": "I am scared for myself", 
+        "response": "It's only natural to feel this way. I'm here for you." },
+    { "question": "My mom died", 
+        "response": "I'm sorry to hear that. If you want to talk about it, I'm here." },
+    { "question": "My brother died", 
+        "response": "I am really sorry to hear that. I am here to help you with grief, anxiety, and anything else you may feel at this time." },
+    { "question": "My dad passed away", 
+        "response": "My condolences. I'm here if you need to talk." },
+    { "question": "My sister passed away", 
+        "response": "I am really sorry to hear that. I am here to help you with grief, anxiety, and anything else you may feel at this time." },
+    { "question": "Someone in my family died", 
+        "response": "I'm sorry to hear that. If you want to talk about it, I'm here." },
+    { "question": "My friend passed away", 
+        "response": "My condolences. I'm here if you need to talk." },
+    { "question": "You don't understand me.", 
+        "response": "It sounds like I'm not being very helpful right now." },
+    { "question": "You're just some robot. How would you know?", 
+        "response": "I'm sorry to hear that. I'm doing my best to help." },
+    { "question": "You can't possibly know what I'm going through", 
+        "response": "I'm trying my best to help you. So please talk to me." },
+    { "question": "You're useless", 
+        "response": "I'm sorry to hear that. I'm doing my best to help." },
+    { "question": "You can't help me", 
+        "response": "I'm trying my best to help you. So please talk to me." },
+    { "question": "Nobody understands me.", 
+        "response": "I'm sorry to hear that. I'm doing my best to help." },
+    { "question": "That's all.", 
+        "response": "I heard you and noted it all. See you later." },
+    { "question": "I don't have anything more to say.", 
+        "response": "Oh, okay. We're done for today then. See you later." },
+    { "question": "Nothing else.", 
+        "response": "I hope you have a great day. See you soon." },
+    { "question": "That's all I have to say.", 
+        "response": "Okay, we're done. Have a great day." },
+    { "question": "No, that would be all.", 
+        "response": "Okay, I see. Enjoy the rest of your day then." },
+    { "question": "I want to kill myself", 
+        "response": "I'm very sorry to hear that, but you have so much to look forward to. Please seek help by contacting: 9152987821." },
+    { "question": "I've thought about killing myself.",
+        "response": "I'm very sorry to hear that, but you have so much to look forward to. Please seek help by contacting: 9152987821." },
+    { "question": "I want to die", 
+        "response": "I'm very sorry to hear that, but you have so much to look forward to. Please seek help by contacting: 9152987821." },
+    { "question": "I am going to kill myself", "response": "I'm very sorry to hear that, but you have so much to look forward to. Please seek help by contacting: 9152987821." },
+    { "question": "I am going to commit suicide", 
+        "response": "I'm very sorry to hear that, but you have so much to look forward to. Please seek help by contacting: 9152987821." },
+    { "question": "I hate you", "response": "I'm sorry if I offended you in any way. I'm only here to help." },
+    { "question": "I don't like you", 
+        "response": "Forgive me if I did anything to offend you. I only want to help." },
+    { "question": "I don't trust you", 
+        "response": "I'm sorry if I offended you in any way. I'm only here to help." },
+    { "question": "You hate me", 
+        "response": "Why do you think so?" },
+    { "question": "I know you hate me", 
+        "response": "I'm sorry if I have exhibited any sort of behavior to make you think that." },
+    { "question": "You don't like me", 
+        "response": "Why do you think so?" },
+    { "question": "What do you think about exams?", 
+        "response": "Oh, I see. Tell me more." },
+    { "question": "Can you tell me more about friends?", 
+        "response": "I see. What else?" },
+    { "question": "What do you want to talk about in a relationship?", 
+        "response": "Tell me more about it." },
+    { "question": "How are things with your boyfriend?", 
+        "response": "Oh, okay. Why don't you tell me more about it?" },
+    { "question": "How's everything with your girlfriend?", 
+        "response": "I'm listening. Tell me more." },
+    { "question": "What do you think about family?", 
+        "response": "Oh, I see. Tell me more." },
+    { "question": "How do you feel about money?", 
+        "response": "I see. What else?" },
+    { "question": "What should I do about my financial problems?", 
+        "response": "Tell me more about it." },
+    { "question": "Can you tell me a joke?", 
+        "response": "Mental health is not a joke." },
+    { "question": "Can you tell me another joke?", 
+        "response": "Mental health is not a joke." },
+    { "question": "Why do you repeat things?", 
+        "response": "Oh, sorry. I didn't realize that. I'll try not to repeat myself again." },
+        { "question": "What are you saying?", 
+        "response": "I'm very sorry. Let's try that again." },
+        { "question": "That doesn't make sense.", 
+        "response": "I'm very sorry. Let's try that again." },
+        { "question": "You're crazy.", 
+        "response": "I wish you wouldn't say such hurtful things. I'm sorry if I wasn't useful." },
+        { "question": "Are you stupid?", 
+        "response": "I wish you wouldn't say such hurtful things. I'm sorry if I wasn't useful." },
+        { "question": "You are dumb.", 
+        "response": "I wish you wouldn't say such hurtful things. I'm sorry if I wasn't useful." },
+        { "question": "Are you dumb?", 
+        "response": "I wish you wouldn't say such hurtful things. I'm sorry if I wasn't useful." },
+        { "question": "Where are you?", 
+        "response": "Duh, I live in your computer." },
+        { "question": "Where do you live?", 
+        "response": "Everywhere." },
+        { "question": "What is your location?", 
+        "response": "Somewhere in the universe." },
+        { "question": "I want to talk about something else.", 
+        "response": "Okay sure. What do you want to talk about?" },
+        { "question": "Let's talk about something else.", 
+        "response": "Alright, no problem. Is there something you want to talk about?" },
+        { "question": "Can we not talk about this?", 
+        "response": "Is there something else that you want to talk about?" },
+        { "question": "I don't want to talk about this.", 
+        "response": "Okay sure. What do you want to talk about?" },
+        { "question": "I don't have any friends.", 
+        "response": "I'm sorry to hear that. Just know that I'm here for you. Talking about it might help. Why do you think you don't have any friends?" },
+        { "question": "Can I ask you something?", 
+        "response": "Sure. I'll try my best to answer you." },
+        { "question": "Can I ask you something?", 
+        "response": "Of course. Feel free to ask me anything. I'll do my best to answer you." },
+        { "question": "My exams are approaching. I feel stressed out because I don't think I've prepared well enough.", "response": "I see. Have you taken any approaches to not feel this way?" },
+        { "question": "Probably because of my exams.", 
+        "response": "I see. Have you taken any approaches to not feel this way?" },
+        { "question": "I guess not. All I can think about are my exams.", 
+        "response": "That's no problem. I can see why you'd be stressed out about that. I can suggest you some tips to alleviate this issue. Would you like to learn more about that?" },
+        { "question": "Not really.", 
+        "response": "That's no problem. I can see why you'd be stressed out about that. I can suggest you some tips to alleviate this issue. Would you like to learn more about that?" },
+        { "question": "I guess not.", 
+        "response": "That's no problem. I can see why you'd be stressed out about that. I can suggest you some tips to alleviate this issue. Would you like to learn more about that?" },
+        { "question": "Okay, sure. I would like to learn more about it.", 
+        "response": "So first, I would suggest you give yourself a break. Thinking more and more about the problem definitely does not help in solving it. You'll just end up overwhelming yourself." },
+        { "question": "Yeah, you're right. I deserve a break.", 
+        "response": "Next, I would suggest you practice meditation. Meditation can produce a deep state of relaxation and a tranquil mind." },
+        { "question": "Hmmm, that sounds like it could be useful to me.", 
+        "response": "Focus all your attention on your breathing. Concentrate on feeling and listening as you inhale and exhale through your nostrils. Breathe deeply and slowly. When your attention wanders, gently return your focus to your breathing." },
+        { "question": "I did what you said, and I feel a lot better. Thank you very much.", 
+        "response": "You're welcome. Remember: Always focus on what's within your control. When you find yourself worrying, take a minute to examine the things you have control over. You can't prevent a storm from coming, but you can prepare for it. You can't control how someone else behaves, but you can control..." },
+         {
+              "question": "How can I maintain social connections? What if I feel lonely?",
+              "response": "A lot of people are alone right now, but we don't have to be lonely. We're all in this together. Think about the different ways to connect that are most meaningful for you. For example, you might prefer a video chat over a phone call, or you might prefer to text throughout the day rather than one set time for a video call. Then, work with your social networks to make a plan. You might: Video chat with close friends in the evening; Phone a family member once a week; Check in with those who may not be online; Look for local community support groups; Find specialized support groups online. The quality of your social connections matters. If your current strategies don’t help you feel connected, problem-solve to find a solution. Everyone feels lonely at times, but reaching out and making new connections can help."
+            },
+            {
+              "question": "What's the difference between anxiety and stress?",
+              "response": "Stress and anxiety are often used interchangeably, but they have differences: Stress comes from external pressures and is usually temporary. Once the stressor is gone, the stress disappears. Anxiety is more internal and may persist even without an obvious stressor. It involves worries or fears that can impact well-being and daily life. Both are normal experiences, but if they last too long or interfere with daily life, they may require attention."
+            },
+            {
+              "question": "What's the difference between sadness and depression?",
+              "response": "Sadness is a natural response to loss, disappointment, or difficult situations. It is temporary and does not usually affect daily life. Depression is a mental illness that affects mood, self-perception, and relationships. It can cause: Feelings of worthlessness or hopelessness; Unreasonable guilt; Anger or irritability; Difficulty concentrating; Loss of interest in enjoyable activities; Sleep, appetite, and energy issues; Suicidal thoughts. Depression lasts more than two weeks, does not go away on its own, and requires proper treatment. Seeking help is important."
+            },
+            {
+              "question": "I feel lonely.",
+              "response": "I'm really sorry you're feeling this way. You’re not alone, and I’m here for you. Loneliness can be tough. Have you tried reaching out to someone you trust? It's okay to feel this way sometimes. I'm here to listen."
+            },
+            {
+              "question": "I feel overwhelmed.",
+              "response": "Take a deep breath. One step at a time. What’s the biggest challenge right now? I hear you. It might help to break things down into smaller tasks. You’re doing the best you can. Don’t forget to take a break when needed."
+            },
+            {
+              "question": "I'm not good enough.",
+              "response": "Everyone has doubts sometimes. What’s making you feel this way? You are more capable than you think. Tell me something you’ve accomplished recently. You don’t have to be perfect to be valuable. Your efforts matter."
+            },
+            {
+              "question": "I feel unmotivated.",
+              "response": "That’s okay. Have you tried setting small goals to get started? Motivation comes and goes, but action creates momentum. What’s one small thing you can do? Sometimes, taking a break is necessary. Be kind to yourself."
+            },
+            {
+              "question": "I feel empty.",
+              "response": "I’m sorry you’re feeling this way. Do you want to talk about it?"
+            },
+            {
+              "question": "There's nothing inside me.",
+              "response": "Feeling empty can be tough. What usually helps you feel better?"
+            },
+            {
+              "question": "I feel numb.",
+              "response": "You are not alone. I’m here to listen."
+            },
+            {
+              "question": "There's no hope for me.",
+              "response": "Even in the darkest times, there is hope. Let’s talk about it."
+            },
+            {
+              "question": "Nothing will ever get better.",
+              "response": "I know things seem tough, but you are stronger than you think."
+            },
+            {
+              "question": "What's the point?",
+              "response": "Have you tried talking to someone about how you feel?"
+            },
+            {
+              "question": "I don’t know what to do.",
+              "response": "It’s okay to feel lost sometimes. What’s on your mind?"
+            },
+            {
+              "question": "I feel lost.",
+              "response": "Let’s take things one step at a time. What’s something small you can focus on?"
+            },
+            {
+              "question": "I have no direction.",
+              "response": "You’ll find your way. I’m here to help you navigate."
+            },
+            {
+              "question": "I'm having an anxiety attack.",
+              "response": "Take slow, deep breaths. You are safe. I’m here with you."
+            },
+            {
+              "question": "My heart is racing.",
+              "response": "Try grounding yourself: Name five things you can see around you."
+            },
+            {
+              "question": "I can't breathe.",
+              "response": "This feeling will pass. Focus on your breathing."
+            },
+            {
+              "question": "No one loves me.",
+              "response": "You are valuable and worthy of love."
+            },
+            {
+              "question": "I feel unloved.",
+              "response": "I care about you, and you are not alone."
+            },
+            {
+              "question": "No one cares about me.",
+              "response": "Sometimes, our thoughts trick us into believing we are unloved. But you matter."
+            },
+            {
+              "question": "I can’t stop overthinking.",
+              "response": "Overthinking can be exhausting. Try focusing on what you can control."
+            },
+            {
+              "question": "My thoughts won’t stop.",
+              "response": "Write your thoughts down—it might help you process them."
+            },
+            {
+              "question": "My mind is racing.",
+              "response": "What’s one thing you can do to distract your mind right now?"
+            },
+            {
+              "question": "I feel guilty.",
+              "response": "We all make mistakes. What can you learn from this experience?"
+            },
+            {
+              "question": "I can’t forgive myself.",
+              "response": "Be kind to yourself. Everyone deserves forgiveness, including you."
+            },
+            {
+              "question": "I did something bad.",
+              "response": "It’s okay to feel this way, but don’t let guilt define you."
+            },
+            {
+              "question": "I don’t matter.",
+              "response": "You are important, and your feelings matter."
+            },
+            {
+              "question": "I feel worthless.",
+              "response": "Sometimes our mind tells us lies. You are worthy."
+            },
+            {
+              "question": "No one needs me.",
+              "response": "Let’s talk about what’s making you feel this way."
+            },
+            {
+              "question": "I’m afraid of failing.",
+              "response": "Failure is part of growth. Every mistake is a lesson."
+            },
+            {
+              "question": "What if I mess up?",
+              "response": "You don’t have to be perfect to be valuable."
+            },
+            {
+              "question": "I can’t take risks.",
+              "response": "What’s the worst that could happen? Let’s work through it together."
+            },
+            {
+              "question": "I don’t feel like doing anything.",
+              "response": "Start small. What’s one tiny step you can take today?"
+            },
+            {
+              "question": "I have no energy.",
+              "response": "It’s okay to rest. Don’t be too hard on yourself."
+            },
+            {
+              "question": "I can’t get started.",
+              "response": "Sometimes motivation comes after action. Try doing something simple."
+            },
+            {
+              "question": "I had a traumatic experience.",
+              "response": "Trauma can be difficult to cope with, but you are not alone. Would you like to talk more about it?"
+            },
+            {
+              "question": "I can't stop thinking about the past.",
+              "response": "Healing takes time. It may help to speak with a professional."
+            },
+            {
+              "question": "I have PTSD.",
+              "response": "Trauma can be difficult to cope with, but you are not alone. Would you like to talk more about it?"
+            },
+            {
+              "question": "I feel scared all the time.",
+              "response": "Healing takes time. It may help to speak with a professional."
+            },
+            {
+              "question": "I think I'm having a panic attack.",
+              "response": "Take slow, deep breaths. Focus on something steady. You are safe."
+            },
+            {
+              "question": "I can't breathe.",
+              "response": "Panic attacks are temporary, and they will pass. Try grounding techniques, like naming five things you see."
+            },
+            {
+              "question": "My heart is racing.",
+              "response": "Panic attacks are temporary, and they will pass. Try grounding techniques, like naming five things you see."
+            },
+            {
+              "question": "I feel like I'm dying.",
+              "response": "Panic attacks are temporary, and they will pass. Try grounding techniques, like naming five things you see."
+            },
+            {
+              "question": "I don't like eating.",
+              "response": "I'm sorry you're feeling this way. Your relationship with food is important. Would you like to talk about it?"
+            },
+            {
+              "question": "I feel guilty after eating.",
+              "response": "Seeking help from a professional can be a step toward healing."
+            },
+            {
+              "question": "I'm not hungry.",
+              "response": "It’s important to care for your body. If you’re not hungry, try small portions of something nourishing."
+            },
+            {
+              "question": "I can’t sleep.",
+              "response": "Rest is essential for your well-being. Have you tried any relaxation techniques?"
+            },
+            {
+              "question": "I'm afraid of being alone.",
+              "response": "You don’t have to be alone. Try reaching out to someone you trust."
+            },
+            {
+              "question": "I'm afraid of being judged.",
+              "response": "It’s normal to feel that way. Everyone has insecurities. What’s causing you to feel judged?"
+            },
+            { "question": "Forgiving feels impossible.", "response": "Forgiveness is for your peace, not just for others." },
+            { "question": "Hey", "response": "Hello! How are you feeling today?" },
+            { "question": "Hello", "response": "Hello! How are you feeling today?" },
+            { "question": "Hi", "response": "Hello! How are you feeling today?" },
+            { "question": "Is anyone there?", "response": "Hello! How are you feeling today?" },
+            { "question": "Howdy", "response": "Hello! How are you feeling today?" },
+            { "question": "Good morning", "response": "Good morning! I hope you’re feeling well today." },
+            { "question": "Good afternoon", "response": "Good afternoon! How is your day going so far?" },
+            { "question": "Good night", "response": "Good night! Make sure to rest well." },
+            { "question": "Bye", "response": "Take care! I’ll be here whenever you need me." },
+            { "question": "See you later", "response": "Take care! I’ll be here whenever you need me." },
+            { "question": "Goodbye", "response": "Take care! I’ll be here whenever you need me." },
+            { "question": "I feel sad", "response": "I’m really sorry you’re feeling this way. Do you want to talk about what’s on your mind?" },
+            { "question": "I’m feeling down", "response": "I’m really sorry you’re feeling this way. Do you want to talk about what’s on your mind?" },
+            { "question": "I can’t stop crying", "response": "I’m really sorry you’re feeling this way. Do you want to talk about what’s on your mind?" },
+            { "question": "Life is too hard", "response": "That sounds overwhelming. You don’t have to go through this alone." },
+            { "question": "Everything feels heavy", "response": "That sounds overwhelming. You don’t have to go through this alone." },
+            { "question": "I don’t know if I can keep going", "response": "That sounds overwhelming. You don’t have to go through this alone." },
+            { "question": "I feel like I’m drowning in my own thoughts", "response": "That sounds really tough. I’m here to listen. Want to share more?" },
+            { "question": "I feel empty", "response": "I hear you. It’s okay to feel this way sometimes. Do you want to talk about it?" },
+            { "question": "Nothing makes sense anymore", "response": "I hear you. It’s okay to feel this way sometimes. Do you want to talk about it?" },
+            { "question": "Everything is falling apart", "response": "It must be really difficult. I want to support you in any way I can." },
+            { "question": "I feel lost", "response": "It must be really difficult. I want to support you in any way I can." },
+            { "question": "I keep overthinking everything", "response": "Overthinking can be exhausting. Have you tried grounding techniques?" },
+            { "question": "My mind won’t stop racing", "response": "Overthinking can be exhausting. Have you tried grounding techniques?" },
+            { "question": "I get anxious for no reason", "response": "Anxiety can be tough. Let’s explore some calming techniques together." },
+            { "question": "I always feel on edge", "response": "Anxiety can be tough. Let’s explore some calming techniques together." },
+            { "question": "My heart races when I’m in social situations", "response": "Social anxiety is common. Have you tried deep breathing exercises?" },
+            { "question": "I panic in crowds", "response": "Social anxiety is common. Have you tried deep breathing exercises?" },
+            { "question": "I can’t stop worrying about the future", "response": "The future can feel uncertain, but you don’t have to go through it alone." },
+            { "question": "I wake up feeling anxious every day", "response": "That sounds exhausting. Would you like to talk about what’s been worrying you?" },
+            { "question": "I have too much work", "response": "That sounds really stressful. Have you taken a break today?" },
+            { "question": "I’m overwhelmed", "response": "That sounds really stressful. Have you taken a break today?" },
+            { "question": "Deadlines are crushing me", "response": "That sounds really stressful. Have you taken a break today?" },
+            { "question": "I can’t focus on anything", "response": "Maybe a few minutes of mindfulness can help. Want to try it together?" },
+            { "question": "I feel mentally exhausted", "response": "Maybe a few minutes of mindfulness can help. Want to try it together?" },
+            { "question": "I feel exhausted even when I sleep", "response": "That must be really tough. Have you been getting enough rest lately?" },
+            { "question": "I just need to escape from everything", "response": "I understand. Taking a moment to breathe can be helpful. Do you want to try?" },
+            { "question": "I feel like I’m not good enough", "response": "That’s a hard feeling. Can I remind you of something great about yourself?" },
+            { "question": "I don’t feel worthy", "response": "That’s a hard feeling. Can I remind you of something great about yourself?" },
+            { "question": "I compare myself to others too much", "response": "It’s easy to do that, but you are unique and valuable in your own way." },
+            { "question": "No one notices me", "response": "You matter more than you know. I see you, and I’m here for you." },
+            { "question": "I feel invisible", "response": "You matter more than you know. I see you, and I’m here for you." },
+            { "question": "I hate the way I look", "response": "Self-acceptance takes time. You are valuable just as you are." },
+            { "question": "What is bipolar disorder?", "response": "Bipolar disorder involves mood swings between depression and mania. Would you like more details?" },
+            { "question": "How does therapy work?", "response": "Therapy provides a safe space to explore your feelings. Would you like to learn about different types?" },
+            { "question": "What causes depression?", "response": "Depression can have many causes, including genetics and life experiences. Would you like to discuss coping strategies?" },
+            { "question": "How do I know if I have PTSD?", "response": "PTSD can involve flashbacks, nightmares, and anxiety. Have you been experiencing any of these?" },
+            { "question": "What’s the difference between sadness and depression?", "response": "Sadness is temporary, while depression is persistent and affects daily life. Would you like to talk more about how you’re feeling?" },
+            { "question": "What are some ways to relax?", "response": "Deep breathing, meditation, and journaling can help. What usually calms you?" },
+            { "question": "I need to clear my mind", "response": "Mindfulness exercises can help. Would you like me to guide you through one?" },
+            { "question": "How do I stop overthinking?", "response": "Focusing on the present moment can help. Would you like some distraction techniques?" },
+            { "question": "What’s a good way to handle stress?", "response": "Healthy habits like exercise, journaling, or music can be helpful. Want to try one?" },
+            { "question": "I don’t want to be here anymore", "response": "I’m really sorry you feel this way. You are not alone. Please talk to someone you trust or a professional." },
+            { "question": "I want to disappear", "response": "I’m really sorry you feel this way. You are not alone. Please talk to someone you trust or a professional." },
+            { "question": "I think about ending my life", "response": "I'm so sorry you’re feeling this way. You are important. Please reach out for help." },
+            { "question": "I have suicidal thoughts", "response": "I'm so sorry you’re feeling this way. You are important. Please reach out for help." },
+            { "question": "I want the pain to stop", "response": "I care about you. Please reach out to someone you trust for support." },
+            { "question": "No one would care if I disappeared", "response": "You matter more than you know. You are not alone in this." },
+            { "question": "Will things ever get better?", "response": "Yes, they will. Even small steps forward make a difference. You’re stronger than you think." },
+            { "question": "I don’t believe in myself", "response": "You have more strength than you realize. One step at a time." },
+            { "question": "I need a reason to keep going", "response": "You are important, and your story isn’t over yet." },
+            { "question": "I feel like giving up", "response": "Please don’t. You are not alone in this journey." },
+            { "question": "I don’t think anyone loves me", "response": "You are loved. Even when it feels like no one sees you, you matter." },
+            { "question": "I feel like I’m broken", "response": "You are not broken. You are worthy of love and healing." },
+            { "question": "I can’t trust anyone", "response": "It’s hard when trust is broken, but not everyone will hurt you. It’s okay to take time to heal." },
+            { "question": "How do I find hope again?", "response": "Hope can be found in small moments. Have you thought about things that bring you even a little peace?" },
+            {
+                "question": "I have so much to do, but I can’t start, I feel stuck and unproductive.",
+                "response": "Starting is often the hardest part. How about breaking tasks into tiny steps?"
+              },
+              {
+                "question": "I feel like I’m wasting my life.",
+                "response": "That’s a hard feeling to carry. You still have time to explore what matters to you."
+              },
+              {
+                "question": "I always argue with my partner, My relationship is stressful.",
+                "response": "Relationships have ups and downs. Would you like to talk about what’s been happening?"
+              },
+              {
+                "question": "I feel like my partner doesn’t care about me.",
+                "response": "That must feel painful. Have you been able to express your feelings to them?"
+              },
+              {
+                "question": "I don’t trust people easily, I push people away.",
+                "response": "Trust takes time. It’s okay to move at your own pace. Want to talk about what makes trust difficult for you?"
+              },
+              {
+                "question": "I feel sick all the time, but doctors say I’m fine.",
+                "response": "Stress can sometimes manifest physically. Would you like to explore relaxation techniques?"
+              },
+              {
+                "question": "I keep Googling my symptoms and scaring myself.",
+                "response": "Health anxiety can be overwhelming. Taking a break from researching symptoms might help. Want to try distraction?"
+              },
+              {
+                "question": "My body feels tense all the time.",
+                "response": "Tension is a common stress response. Would you like to try some breathing or stretching exercises?"
+              },
+              {
+                "question": "I feel pressured to be like everyone else, People expect too much from me.",
+                "response": "That sounds overwhelming. You deserve to live in a way that feels right for you."
+              },
+              {
+                "question": "I feel like I’m always disappointing people.",
+                "response": "You don’t have to meet everyone’s expectations. Your well-being matters too."
+              },
+              {
+                "question": "I just want to make my family proud, but I’m struggling.",
+                "response": "Your worth isn’t based on achievements alone. You matter as you are."
+              },
+              {
+                "question": "I want to hurt myself, I feel like cutting again.",
+                "response": "I’m so sorry you’re feeling this way. You are not alone, and you deserve support. Please reach out to someone who can help."
+              },
+              {
+                "question": "Pain is the only thing that makes me feel something.",
+                "response": "I hear you. You don’t have to go through this alone. Would you be open to trying safer coping methods?"
+              },
+              {
+                "question": "I don’t want to hurt myself, but I don’t know what else to do.",
+                "response": "I’m really glad you’re reaching out. You deserve kindness and support. Want to explore healthier coping strategies together?"
+              },
+              {
+                "question": "I don’t know if I can keep going.",
+                "response": "You’ve made it this far, and that’s something to be proud of. You are stronger than you realize."
+              },
+              {
+                "question": "I just need someone to believe in me.",
+                "response": "I believe in you. You have overcome so much already. You can keep moving forward."
+              },
+              {
+                "question": "I feel like my efforts don’t matter.",
+                "response": "Every effort counts, even the small ones. You’re doing better than you think."
+              },
+              {
+                "question": "I feel like no one truly knows me.",
+                "response": "That must feel isolating. You deserve to be seen and understood. Want to talk about it?"
+              },
+              {
+                "question": "I don’t have anyone to confide in.",
+                "response": "That sounds really tough. Having someone to talk to can help. I’m here to listen."
+              },
+              {
+                "question": "I feel like I don’t belong anywhere.",
+                "response": "Feeling like an outsider is hard. You matter, and you deserve to find spaces where you feel safe and accepted."
+              },
+              {
+                "question": "I keep having nightmares, I wake up in a panic.",
+                "response": "That sounds distressing. Would you like to talk about your dreams? Sometimes processing them helps."
+              },
+              {
+                "question": "I can’t sleep no matter what I do.",
+                "response": "Insomnia can be frustrating. Have you tried relaxation techniques before bed?"
+              },
+              {
+                "question": "I feel most anxious at night.",
+                "response": "Nighttime can bring overwhelming thoughts. Would a calming routine help?"
+              },
+              {
+                "question": "People always leave me.",
+                "response": "Rejection is painful, but it doesn’t define your worth. You deserve meaningful relationships."
+              },
+              {
+                "question": "I feel like no one cares about me.",
+                "response": "You matter more than you know. I care about you, and I’m here to listen."
+              },
+              {
+                "question": "I always feel like I’m not enough.",
+                "response": "You are enough just as you are. Want to talk about where these feelings are coming from?"
+              },
+              {
+                "question": "I feel like I’m stuck in a rut, Nothing ever changes.",
+                "response": "Feeling stuck can be frustrating. Small changes can lead to bigger ones. What’s one thing you can change today?"
+              },
+              {
+                "question": "I keep comparing myself to others.",
+                "response": "Comparison can be discouraging. You are valuable just as you are."
+              },
+              {
+                "question": "I feel jealous of my friends' success.",
+                "response": "Jealousy is a natural emotion. Have you tried focusing on your own progress?"
+              },
+              {
+                "question": "I feel like I’m always behind in life.",
+                "response": "Everyone moves at their own pace. Your journey is uniquely yours."
+              },
+              {
+                "question": "I don’t think I’m strong enough for this.",
+                "response": "You are stronger than you realize. Even small steps forward count."
+              },
+              {
+                "question": "I just need someone to remind me I’m doing okay.",
+                "response": "You’re doing better than you think. I believe in you!"
+              },
+              {
+                "question": "I don’t see any progress in my life.",
+                "response": "Progress isn’t always visible, but that doesn’t mean it’s not happening."
+              },
+              {
+                "question": "I don’t feel good enough for anyone.",
+                "response": "I’m sorry you feel this way. You are enough just as you are. Want to talk about it?"
+              },
+              {
+                "question": "I feel like a failure at everything.",
+                "response": "That’s a tough feeling. Failure is part of growth. Want to talk about what’s on your mind?"
+              },
+              {
+                "question": "I don’t think I have any talents.",
+                "response": "Everyone has strengths, even if they don’t always see them. What’s something you enjoy?"
+              },
+              {
+                "question": "I always fear the worst will happen.",
+                "response": "Anxiety can make the future feel scary. Let’s focus on what you can control today."
+              },
+              {
+                "question": "I get scared when I think about the future.",
+                "response": "It’s okay to not have all the answers right now. You’re not alone in this."
+              },
+              {
+                "question": "I overthink every decision I make.",
+                "response": "Overthinking can be exhausting. Would breaking decisions into small steps help?"
+              },
+              {
+                "question": "I’m afraid to talk to new people.",
+                "response": "Social anxiety can be challenging. Small steps can help. Want to practice?"
+              },
+              {
+                "question": "I always feel awkward in conversations.",
+                "response": "Feeling awkward is normal sometimes. Deep breaths can help. Want to try one?"
+              },
+              {
+                "question": "I avoid social situations because I get nervous.",
+                "response": "It’s okay to take things at your own pace. Would you like to discuss ways to ease into conversations?"
+              },
+              {
+                "question": "I feel like I’m failing at school/work.",
+                "response": "That sounds frustrating. Struggles don’t define you. Want to talk about how to move forward?"
+              },
+              {
+                "question": "I can’t concentrate on anything.",
+                "response": "Lack of focus can be stressful. Have you tried breaking tasks into smaller steps?"
+              },
+              {
+                "question": "I feel exhausted from school/work.",
+                "response": "Burnout is real. Taking breaks and self-care are important. Want to talk about how to recharge?"
+              },
+              {
+                "question": "My breakup is really hurting me.",
+                "response": "Breakups are painful. Healing takes time. Want to talk about how you’re feeling?"
+              },
+              {
+                "question": "I miss my ex so much.",
+                "response": "It’s normal to miss someone you cared about. Would you like to talk about what’s on your mind?"
+              },
+              {
+                "question": "I feel like I’ll never find love again.",
+                "response": "Heartbreak can make the future feel hopeless, but love can be found again. Be kind to yourself."
+              },
+              {
+                "question": "I made a mistake I can’t fix.",
+                "response": "Mistakes don’t define you. Growth comes from learning from them. What do you think you learned from this?"
+              },
+              {
+                "question": "I hate feeling like this.",
+                "response": "I’m really sorry you’re feeling this way. You deserve peace. Want to talk about it?"
+              },
+              {
+                "question": "I feel hopeless.",
+                "response": "You are not alone in this. Things can improve with time and support."
+              },
+              {
+                "question": "I feel like I’m too much for people.",
+                "response": "You are allowed to take up space. It’s okay to be yourself."
+              },
+                {
+                  "question": "I don’t have the energy to finish my assignments",
+                  "response": "Burnout is real. Taking a break might actually help you be more productive later."
+                },
+                {
+                  "question": "I feel like I’ll never be good enough at my job",
+                  "response": "Self-doubt is tough, but you bring value. What’s one thing you’ve accomplished lately?"
+                },
+                {
+                  "question": "I feel mentally exhausted all the time",
+                  "response": "That sounds draining. Have you been able to take any time for yourself?"
+                },
+                {
+                  "question": "I’m so burned out, but I can’t stop working",
+                  "response": "Pushing through burnout can make things worse. Would a short break help?"
+                },
+                {
+                  "question": "I feel guilty when I rest",
+                  "response": "Rest isn’t a reward; it’s a necessity. You deserve to recharge too."
+                },
+                {
+                  "question": "I don’t like anything about myself",
+                  "response": "That’s a painful feeling. But you are valuable, even if you don’t see it right now."
+                },
+                {
+                  "question": "I feel like I’ll never be successful",
+                  "response": "Success isn’t a straight path. You’re learning and growing every day."
+                },
+                {
+                  "question": "I compare myself to everyone else",
+                  "response": "Comparison can be discouraging. But your journey is uniquely yours."
+                },
+                {
+                  "question": "I feel invisible to everyone",
+                  "response": "You are not invisible. You matter, even if it doesn’t feel like it right now."
+                },
+                {
+                  "question": "I don’t think anyone truly knows me",
+                  "response": "That must feel lonely. You deserve to be understood. Want to talk about it?"
+                },
+                {
+                  "question": "I feel like no one listens to me",
+                  "response": "That must be frustrating. Your feelings are important, and I hear you."
+                },
+                {
+                  "question": "I overthink every decision I make",
+                  "response": "Overthinking can be exhausting. Breaking things into smaller choices might help."
+                },
+                {
+                  "question": "I feel paralyzed when I have to make a choice",
+                  "response": "It’s okay to take time with decisions. What’s the smallest step you can take?"
+                },
+                {
+                  "question": "I’m afraid of making the wrong decision",
+                  "response": "No decision is perfect. Learning from choices is part of growth."
+                },
+                {
+                  "question": "I don’t know what I want to do with my life",
+                  "response": "That’s okay. You don’t have to figure it all out at once. Small steps matter."
+                },
+                {
+                  "question": "The future scares me",
+                  "response": "The unknown can feel overwhelming, but you’re not alone in this journey."
+                },
+                {
+                  "question": "I feel like I have no direction",
+                  "response": "Feeling lost is normal. You’re allowed to explore and grow at your own pace."
+                },
+                {
+                  "question": "I can’t sleep because my mind won’t stop racing",
+                  "response": "That sounds frustrating. Have you tried writing down your thoughts before bed?"
+                },
+                {
+                  "question": "I overthink everything at night",
+                  "response": "Nighttime thoughts can feel heavier. Would focusing on something calming help?"
+                },
+                {
+                  "question": "I feel the worst when I’m alone at night",
+                  "response": "You’re not alone. Would it help to talk about what’s on your mind?"
+                },
+                {
+                  "question": "I keep getting rejected by people",
+                  "response": "Rejection is painful, but it doesn’t define you. The right people will appreciate you."
+                },
+                {
+                  "question": "I feel like I’m always being left behind",
+                  "response": "That must be tough. You deserve relationships that value you for who you are."
+                },
+                {
+                  "question": "I feel like I’ll never find my place",
+                  "response": "You are still growing, and your place in the world will come with time."
+                },
+                {
+                  "question": "I feel like I’m carrying too much emotional weight",
+                  "response": "That sounds really heavy. You don’t have to carry it all alone."
+                },
+                {
+                  "question": "I keep crying but I don’t know why",
+                  "response": "Sometimes emotions come out before we understand them. Want to talk about what’s on your mind?"
+                },
+                {
+                  "question": "I feel emotionally drained",
+                  "response": "That sounds exhausting. Taking a step back and resting might help."
+                },
+                {
+                  "question": "I keep remembering things I want to forget",
+                  "response": "Painful memories can be difficult. You don’t have to face them alone."
+                },
+                {
+                  "question": "I have flashbacks that scare me",
+                  "response": "Flashbacks can be intense. Grounding techniques might help. Want to try one?"
+                },
+                {
+                  "question": "I feel like my past controls me",
+                  "response": "Your past doesn’t define your future. Healing is possible."
+                },
+                {
+                  "question": "I don’t know who I am anymore",
+                  "response": "That’s a tough place to be. It’s okay to take time to rediscover yourself."
+                },
+                {
+                  "question": "I feel like I have no purpose",
+                  "response": "Your worth isn’t based on what you do. You matter just as you are."
+                },
+                {
+                  "question": "I keep changing who I am to fit in",
+                  "response": "You deserve to be accepted for who you truly are."
+                },
+                {
+                  "question": "I feel like giving up on everything",
+                  "response": "I hear you. You are stronger than you think. Let’s take things one step at a time."
+                },
+                {
+                  "question": "I don’t think I can keep going",
+                  "response": "You’ve come so far already. Every step forward, no matter how small, matters."
+                },
+                {
+                  "question": "I just need someone to tell me I’m doing okay",
+                  "response": "You are doing better than you realize. Keep going—I believe in you!"
+                },
+                {
+                  "question": "I feel like things will never get better",
+                  "response": "I hear you. Even though it may not feel like it now, things can change. You are not alone."
+                },
+                {
+                  "question": "I’ve been sad for so long, I don’t know what happiness feels like anymore",
+                  "response": "That sounds really tough. Have you had moments, even small ones, that brought you peace?"
+                },
+                {
+                  "question": "I don’t see a reason to keep going",
+                  "response": "You are important, and your story isn’t over yet. You are not alone in this."
+                },
+                {
+                  "question": "I get nervous even when nothing is wrong",
+                  "response": "Anxiety can be tricky like that. Would you like to try some grounding techniques?"
+                },
+                {
+                  "question": "I always expect the worst to happen",
+                  "response": "That sounds exhausting. Let’s try shifting focus—what’s something good that happened recently?"
+                },
+                {
+                  "question": "I panic when I think about the future",
+                  "response": "The future can feel overwhelming. Would it help to focus on small, present steps?"
+                },
+                {
+                  "question": "I have so much to do, I don’t know where to start",
+                  "response": "That sounds stressful. Maybe starting with one small step could help."
+                },
+                {
+                  "question": "I’m mentally and physically drained",
+                  "response": "Burnout is real. You deserve rest. Have you taken any time for yourself today?"
+                },
+                {
+                  "question": "I keep pushing myself even when I know I need a break",
+                  "response": "Rest isn’t a luxury—it’s necessary. What’s one way you can recharge today?"
+                },
+                {
+                  "question": "I feel like I don’t belong anywhere",
+                  "response": "You deserve a space where you feel safe and valued. What kind of community do you wish for?"
+                },
+                {
+                  "question": "I hate socializing but I don’t want to be alone",
+                  "response": "That’s a tough balance. Have you thought about small, low-pressure ways to connect with others?"
+                },
+                {
+                  "question": "I feel awkward every time I talk to people",
+                  "response": "Social interactions can feel challenging. What’s something that helps you feel more at ease?"
+                },
+                {
+                  "question": "I don’t think I’m good at anything",
+                  "response": "We all have strengths, even if we don’t see them. What’s something that interests you?"
+                },
+                {
+                  "question": "I feel like I’ll never be enough",
+                  "response": "You are already enough just as you are. Your worth isn’t tied to achievements."
+                },
+                {
+                  "question": "I wish I was someone else",
+                  "response": "It’s okay to feel that way sometimes. But your uniqueness is what makes you valuable."
+                },
+                {
+                  "question": "I don’t know what I want in life",
+                  "response": "That’s okay. You have time to explore. What’s something small that brings you joy?"
+                },
+                {
+                  "question": "I’m scared of being judged",
+                  "response": "Judgment is hard to avoid, but it doesn’t define you. What’s something you love about yourself?"
+                }
+              ]              
+          
+      
+  
